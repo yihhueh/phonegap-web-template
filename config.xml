@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="web.ntnu.edu.tw/~40620239L/yihhueh1998/" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id=phonegap-web-template.yihhueh.info/" version="1.0.0">
     
     <name>留學生活找FUN去</name>
     <description>og──大學生玩什麼？</description>
